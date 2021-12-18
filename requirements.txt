@@ -1,6 +1,5 @@
+attrs==21.2.0
+certifi==2021.10.8
 jsonschema==4.2.1
-scipy==0.18.0
-numpy==2.3.0
-Django==0.3.3
-pandas==2.7.1
-scipy==0.0.14
+pyrsistent==0.18.0
+wincertstore==0.2
